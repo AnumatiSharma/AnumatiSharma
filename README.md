@@ -68,9 +68,9 @@ https://vision-x-ai-pi.vercel.app/
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile
-- LeetCode:
+- GitHub: https://github.com/AnumatiSharma
+- LinkedIn: https://www.linkedin.com/in/anumati-sharma-a962a6324/
+- LeetCode:https://leetcode.com/u/Anumati_Sharma18/
 
 ---
 
