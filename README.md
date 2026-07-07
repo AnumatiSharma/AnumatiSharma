@@ -1,4 +1,4 @@
-# Anumati-Sharma
+# AnumatiSharma
 # Hi, I'm Anumati Sharma 👋
 
 🎓 Third-Year Computer Science Engineering Student
