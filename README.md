@@ -1,54 +1,25 @@
-# AnumatiSharma
-# Hi, I'm Anumati Sharma 👋
+<h1 align="center">Hi 👋, I'm Anumati Sharma</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🎓 Third-Year Computer Science Engineering Student
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anumatisharma&label=Profile%20views&color=0e75b6&style=flat" alt="anumatisharma" /> </p>
 
-💡 Passionate about Artificial Intelligence, Computer Vision, Machine Learning, and Software Development.
 
-I enjoy building real-world applications that solve meaningful problems and improve accessibility through technology.
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/AnumatiSharma](https://github.com/AnumatiSharma)
 
-## 🚀 About Me
+- 📫 How to reach me **anumatiravi14@gmail.com**
 
-- 🎓 B.Tech in Computer Science Engineering
-- 🤖 Interested in AI, Computer Vision, and Machine Learning
-- 💻 Strong interest in Java, Python, and Web Development
-- 🌱 Currently learning advanced AI and full-stack development
-- 🎯 Goal: Build impactful software that addresses real-world challenges
+- ⚡ Fun fact **I love sloving DSA problems**
 
----
+- ## 📈 Currently Learning
 
-## 🛠️ Technical Skills
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Structures & Algorithms
+- Full-Stack Development
 
-### Languages
-- Java
-- Python
-- C++
-- JavaScript
-- HTML
-- CSS
-
-### Technologies & Tools
-- Git
-- GitHub
-- OpenCV
-- YOLO
-   
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🌟 Featured Project
+🌟 Featured Project
 
 ### Vision-X
 
@@ -66,22 +37,20 @@ https://vision-x-ai-pi.vercel.app/
 
 ---
 
-## 📈 Currently Learning
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anumati sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anumati sharma" height="30" width="40" /></a>
+<a href="https://instagram.com/sharma_anumati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharma_anumati" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anumati_sharma18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anumati_sharma18" height="30" width="40" /></a>
+</p>
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Structures & Algorithms
-- Full-Stack Development
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anumatisharma&show_icons=true&locale=en&layout=compact" alt="anumatisharma" /></p>
 
-## 📫 Connect With Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anumatisharma&show_icons=true&locale=en" alt="anumatisharma" /></p>
 
-- GitHub: https://github.com/AnumatiSharma
-- LinkedIn: https://www.linkedin.com/in/anumati-sharma-a962a6324/
-- LeetCode:https://leetcode.com/u/Anumati_Sharma18/
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anumatisharma&" alt="anumatisharma" /></p>
 
 ⭐ Thanks for visiting my profile!
